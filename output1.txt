@@ -1,0 +1,45 @@
+. X X X X O O X . . X X X . . . . . . O 
+. X . O O O . . O . . X X X O X X X . . 
+X X . X O . . X O O X X X X . . X . X X 
+O X O O . O . O X O . X O . X . . . X . 
+. X . O . O O X O O O X X X . X . . . . 
+O O O . O O X X X . . O X X O O O O . X 
+O X O X O O O O O X . . . . . O O O . O 
+. X . . X X X X . O X . . O . O X O X O 
+O . . O X X . X . . . O . O X . X X . O 
+. O X . . X O . X . X X O X X O X . O . 
+O . X . O . O X . . O O . O . X . O O X 
+. X X X . O . O X X . . X X O X . X O O 
+X O O X . . . O O O X O O X X X . O . X 
+X O X . O O X O . X . X . O . X . X . O 
+O . O X . . . O O . . O X O . X X O X O 
+O . X . X O . X X O O O . . . O O X . . 
+O X O . . . O . O . X . O X . X . X X X 
+. X X . O X . . O . X . . X O . O X . O 
+X . . X X O O O . X . X X O . X O O O X 
+X . X . . O O . O X X X . X X X X . X O 
+0.5295504688361828
+0.5295504688361828
+0.5293987865416434
+0.5293987865416434
+0.5293987865416434
+. X X X X O O X . . X X X . . . . . . O 
+. X . O O O . . O O . X X X O X X X . . 
+X X . X O . . X O O X X X X . . X . X X 
+O X O O . O . O X O . X O . X . . . X . 
+. X . O . O O X . O O X X X . X . . . . 
+O O O . O O X X X . . O X X O O O O . X 
+O X O X O O O O O X . . . . . O O O . O 
+. X . . X X X X . O X . . O . O X O X O 
+O . . O X X . X . . . . . O X . X X . O 
+. O X . . X O . X . X X O X X O X . O O 
+O . X . O . O X . . O O . O . X . O O X 
+. X X X . O . O X X . . X X O X . X O O 
+X O O X . . . O O O X O O X X X . O . X 
+X O X . O O X O . X . X . O . X . X . O 
+O . O X . . . O O . . O X O . X X O X O 
+O . X . X O . X X O O O . . . O O X . . 
+O X O . . . O . O . X . O X . X . X X X 
+. X X . O X . . O . X . . X O . O X . O 
+X . . X X O O O . X . X X O . X O O O X 
+X . X . . O O . O X X X . X X X X . X O 
